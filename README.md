@@ -20,7 +20,15 @@ I really enjoy the idea of being able to create things that are practical or jus
 **My Github Profile:**
 [Github](https://github.com/littl3birdy)
 
-[Image]
+![My picture](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/55831607_10217852738527162_5490632014488928256_n.jpg?_nc_cat=104&_nc_ht=scontent-sea1-1.xx&oh=116675cfbde751e903a445a0bbf11089&oe=5D9D0B62)
 
-### Growth Mindset:
-**What is Growth Mindset?**
+#### Growth Mindset:
+I am determined to have a growth mindset throughout my learning journey.
+**What is a Growth Mindset?**
+A growth mindset is a perspective that changes "I can't." to "I can't yet!" It is the idea that *anyone* can learn or do *anything* with hard work and determination.
+
+**Reminders to myself**
+1. When I am stuck: Take a break, ask for help, or try something new.
+2. Do not compare myself to others! Instead: Remember that they once were where I am at. How did they grow?
+3. Don't give up!
+
