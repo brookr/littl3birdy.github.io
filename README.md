@@ -1,35 +1,26 @@
 ## Welcome to My Learning Journal!
 
-This is my learning journal for Code 102.  I will keep track of what I have learned here.  
+Hello! My name is Ashlyn and this is my learning journal for Code 102. 
+
+### About Me:
+
+I am a California native and I have lived in the Seattle area for 19 years. I miss the beach and sunshine sometimes, but I really love living here. 
+
+**Current Work:**
+I currently work as a dog trainer in the Everett/Lynwood area. I own my own business and I specialize in working with rescue dogs. I am very passionate about my job and love the animals and people I work with. 
+
+**Why Programming?**
+I have decided to go back to school to be a full stack developer.  I have many friends that are Software Engineers and I have dabbled in coding for the last 2 years and have finally decided to go for it. 
+I really enjoy the idea of being able to create things that are practical or just fun.  I would love to be able to contribute to enriching peoples lives through technology, while also building a great carreer that I can support my family with.
+
+**Contact me:**
+- Phone/text: (425)343-7959
+- Email: ashlynmmorin@gmail.com
+
+**My Github Profile:**
+[Github](https://github.com/littl3birdy)
+
+[Image]
 
 ### Growth Mindset:
-
-**What is a growth mindset?**
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littl3birdy/littl3birdy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**What is Growth Mindset?**
