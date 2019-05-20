@@ -4,7 +4,7 @@ This is my learning journal for Code 102.  I will keep track of what I have lear
 
 ### Growth Mindset:
 
-**Bold** What is a growth mindset? 
+**What is a growth mindset?**
 
 ```markdown
 Syntax highlighted code block
