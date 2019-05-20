@@ -1,12 +1,10 @@
 ## Welcome to My Learning Journal!
 
-You can use the [editor on GitHub](https://github.com/littl3birdy/littl3birdy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my learning journal for Code 102.  I will keep track of what I have learned here.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Growth Mindset:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Bold** What is a growth mindset? 
 
 ```markdown
 Syntax highlighted code block
