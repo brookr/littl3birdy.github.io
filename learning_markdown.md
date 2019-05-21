@@ -5,7 +5,8 @@ Markdown is an easy to use syntax that is used to style writing on the web.  Mos
 ## Show the code on your website:
 In markdown, you can use the backtick to create a window on your webpage that will show everything you write as it is. This is a great way to demonstrate code, so I will use it here to showcase what I have learned.
 ```
-"`" 3x at the beginning and end of a block of code, will publish a window of code directly to your webpage.
+"`" 3x at the beginning and end of a block of code
+will publish a window of code directly to your webpage.
 ```
 
 ## **Bold** and *Italic* styling:
