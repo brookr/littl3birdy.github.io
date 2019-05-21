@@ -33,7 +33,7 @@ To add images to your page using markdown, use the following formula:
 ## Links:
 To insert links to your page using markdown, use the following formula:
 ```
-[description here (This will appear as a colored word or words that can be selected)](link address here)
+[description here](link address here)
 ```
 
 There are many other markdown styling options.  Click [here](https://help.github.com/en/articles/about-writing-and-formatting-on-github) for more useful style code to use in GitHub.
