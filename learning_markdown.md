@@ -1,4 +1,4 @@
-# Learning Markdown
+# **Learning Markdown**
 
 Markdown is an easy to use syntax that is used to style writing on the web.  Most of Markdown is text with other characters thrown in. Here is some basic markdown code I have learned so far:
 
@@ -23,5 +23,19 @@ To create headers in markdown, you use the hashtag character. The number of hash
 ## Header Here (Same as <h2>)
 ##### Header Here (Same as <h5>)
 ```
+
+## Images:
+To add images to your page using markdown, use the following formula:
+```
+![Alt message here (Usually a description of the image.)](url here.)
+```
+
+## Links:
+To insert links to your page using markdown, use the following formula:
+```
+[description here (This will appear as a colored word or words that can be selected)](link address here)
+```
+
+There are many other markdown styling options.  Click [here](https://help.github.com/en/articles/about-writing-and-formatting-on-github) for more useful style code to use in GitHub.
   
 
