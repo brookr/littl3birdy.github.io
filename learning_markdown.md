@@ -16,3 +16,11 @@ To create **bold** or *italicized* word styling in markdown, you use the asteric
 ```
 
 ## Headers:
+To create headers in markdown, you use the hashtag character. The number of hashtags correlates to the importance of the header.
+```
+# Header Here (Same as <h1>)
+## Header Here (Same as <h2>)
+##### Header Here (Same as <h5>)
+```
+  
+
